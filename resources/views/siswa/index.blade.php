@@ -6,7 +6,7 @@
 </head>
 <body>
 	<div class="row" style="margin: 16px;">
-		<h1>Data Siswa</h1>
+		<h1 class="display-4">Data Siswa</h1>
 
 		<div class="table">
 				<table>
